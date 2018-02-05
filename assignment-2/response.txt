@@ -1,0 +1,18 @@
+Data travels in packets over the internet
+
+The relationship between DNS and IP addresses: The computer
+uses DNS to look up domain names and the associated IP
+address to take the user to the correct website associated with the
+domain name. The are multiple DNS servers that are split into zones
+including .gov, .com, .org, etc. When you type in a website URL the computer
+uses DNS to find the domain name and associated IP.
+
+Cookie: A cookie holds the data from a user on a
+specific website ("id card")in order to tailor the page to the
+users data stored on the server. It helps carry
+information from one visit to the website to the next.
+
+3 Basic parts of the URL: ex. "https:// google.com /blog/anatomy-of-a-url
+1. Protocol ex. https://
+2. Domain name ex. google.com
+3.Path ex. /blog/anatomy-of-a-url
