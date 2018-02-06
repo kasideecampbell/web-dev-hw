@@ -15,4 +15,4 @@ This assignment was difficult but rewarding for me, because...
 
 3. In addition I enjoyed getting more experience working in Atom.
 
-![Image of Assignment 2](./Images/screenshot2.png)
+![Image of Assignment 2](https://github.com/kasideecampbell/web-dev-hw/tree/master/assignment-2/images)
