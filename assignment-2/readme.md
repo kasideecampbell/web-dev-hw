@@ -15,4 +15,4 @@ This assignment was difficult but rewarding for me, because...
 
 3. In addition I enjoyed getting more experience working in Atom.
 
-![Image of Assignment 2.](./images/Screenshot2.png)
+![Image of Assignment 2](./Images/screenshot2.png)
