@@ -10,9 +10,8 @@
       div {width:32%;display:inline-block;vertical-align:text-top;}
       table, td, th {
       /* -- Step 16 -- */
-
-
-
+      border-collapse: 2px solid gray;
+      padding: 5px;
       }
     </style>
   </head>
@@ -28,32 +27,32 @@
 
     <main>
       <!-- Step 1 -->
-
-
+<form action="http://www.example.com/register.phpFieldset" method="get">
       <!-- Part 1: Basic Info -->
       <fieldset>
         <legend>Contact Details</legend>
         <!-- Step 2 (Name) -->
         <p>Name:
-          <input type="text" name="name" id="name-first" />
-          <input type="text" name="name" id="name-middle" />
-          <input type="text" name="name" id="name-last" />
+          <input type="text" name="name" id="name-first" placeholder="First"/>
+          <input type="text" name="name" id="name-middle" maxlength="3" size="3" placeholder="MI"/>
+          <input type="text" name="name" id="name-last"placeholder="Last"/>
         </p>
         <!-- Step 3 (E-mail) -->
         <p>E-mail:
-
+          <input type="email" autofocus placeholder="you@email.com"/>
         </p>
 
         <!-- Step 4 (Date) -->
         <p>Date of Birth:
-
+          <input type="date" placeholder="mm/dd/yyyy"/>
         </p>
 
         <!-- Step 5 ("No" Radio) -->
         <p>Have you taken a web design course before?</p>
             <input id="yes" type="radio" name="prev-course" value="y">
               <label for="yes">Yes</label>
-
+            <input id="no" type="radio" name="prev-course" value="n">
+              <label for="no">NoFieldTest</label>
       </fieldset>
 
 
@@ -71,60 +70,116 @@
           <p>What is your preferred browser?</p>
           <p><i>Choose one:</i></p>
           <!-- Step 6 -->
-
+            <input type="radio" name="browser" value="Firefox"/> Firefox
+            <br />
+            <input type="radio" name="browser" value="Chrome" checked /> Chrome
+            <br />
+            <input type="radio" name="browser" value="InternetExplorer"/> Internet Explorer
+            <br />
+            <input type="radio" name="browser" value="Safari"/> Safari
+            <br />
+            <input type="radio" name="browser" value="Opera"/> Opera
+            <br />
+            <input type="radio" name="browser" value="MicrosoftEdge"/> Microsoft Edge
+            <br />
+            <input type="radio" name="browser" value="Other"/> Other
         </div>
 
         <!-- LANGUAGES --><div id="languages">
           <!-- Step 7 -->
-
+          <figure>
+            <img src="./images/languages.png" alt="Image of Lanuages" title="Language Icon" width="100" height="100" />
+              <figcaption>Chatting in Code</figcaption>
           <p>What languages are you familiar with?</p>
           <p><i>Choose one or more:</i></p>
             <!-- Step 8 -->
-
+            <input type="checkbox" name="languages" value="html" /> HTML
+            <br />
+            <input type="checkbox" name="languages" value="css" /> CSS
+            <br />
+            <input type="checkbox" name="languages" value="javascript" /> Java Script
+            <br />
+            <input type="checkbox" name="languages" value="php" /> PHP
+            <br />
+            <input type="checkbox" name="languages" value="ruby" /> Ruby
+            <br />
+            <input type="checkbox" name="languages" value="python" /> Python
+            <br />
+            <input type="checkbox" name="languages" value="other" /> Other
         </div>
 
         <!-- SHORT-ANSWER--><div id="short-answer">
           <!-- Step 9 -->
-
+          <figure>
+            <img src="./images/experience.png" alt="Image of Experience" title="Experience Icon" width="100" height="100"/>
+            <figcaption>In the Know?</figcaption>
           <p>Introduce yourself!</p>
 
           <p>“Hi! I'm a
             <select name="experience-level">
             <!-- Step 10 -->
-
+              <option value="G">Guppy</option>
+              <option value="beg">Beginnger</option>
+              <option value="nov" selected>Novice</option>
+              <option value="JM">Journeyman</option>
+              <option value="ex">Expert</option>
+              <option value="wiz">Wizard</option>
             </select>
             web designer or developer.”</p>
 
           <p>“Last year, I spent
             <!-- Step 11 -->
-            <input type="text" name="experince-time"
+            <input type="numbers" name="experince-time"
             id="experince-time" placeholder="##" min="0" max="12" size="2"/>
             months studying or working in this field.”</p>
+<textarea rows="2" cols30="" name=comments id="test-testarea">"“I think my most difficult task will be..."
+</textarea>
+<br />
 
-          <!-- Step 12 (textarea) -->
-          “I think my most difficult task will be...
-        </div>
-      </fieldset>
+<fieldset>
+  <legend>Offerings and Availability</legend>
 
+<table>
+  <tr>
+     <th></th>
+     <th scope="col">Spring Semester</th>
+     <th scope="col">Summer Session</th>
+     <th scope="col">Autumn Semester</th>
+     <th scope="col">Winter Session</th>
+     <th scope="col">Special Session</th>
+  </tr>
+  <tr>
+     <th scope="row">Times (PM)</th>
+     <td>M, W 12:00-2:00</td>
+     <td>F 5:30-9:30</td>
+     <td>M, W 12:00-2:00</td>
+     <td>F 12:00-4:00</td>
+     <td>TBA</td>
+  </tr>
+  <tr>
+     <th scope="row">Seats Available</th>
+     <td>12/60</td>
+     <td>FULL</td>
+     <td>FULL</td>
+     <td>2/60</td>
+     <td>60/60</td>
+  </tr>
 
-      <br />
+<p>
+Username:
+<input type="text" name="username" id="text-username" required/>
+<br/>
+Password:
+<input type="password" name="password" id="test-password" required />
+</p>
 
-
-      <!-- Part 3: Course Offerings -->
-      <!-- Steps 13-18 -->
-
-
-        <!-- Step 19 -->
-        <table>
-          
-        </table>
-        <p>Yes! Sign me up for weekly e-mail alerts.
-
-        </p>
-
-
+  <p>Yes! Sign me up for weekly e-mail alerts.
+<input type="checkbox"  name="newsletter" value="y" checked />
+  </p>
+<input type="submit" name="subscribe" value="submit" />
+</fieldset>
     </main>
     <!-- Step 20 -->
-
+<img src="./images/registration-station.jpg" alt="Registration Image" title="Register Today!" width="500" height="333" />
   </body>
 </html>
