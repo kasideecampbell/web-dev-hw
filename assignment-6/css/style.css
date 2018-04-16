@@ -1,9 +1,10 @@
 body {
   background-color: turquoise;
   font-size: 16pt;
-  height: 800px;
-  width: 800px;
+  height: 800px
+  width: 800px
 }
+/* This adjusts style for header 1's and paragraphs*/
 h1,p {
   font-family: Verdana;
   font-size: 18pt;
