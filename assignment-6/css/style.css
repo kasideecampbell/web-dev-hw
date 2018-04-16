@@ -8,6 +8,13 @@ h1,p {
   color: magenta;
   background-color:white;
 }
+.box2 {
+  background-color: indigo;
+  height: 200px;
+  width: 200px;
+  border-left:50px solid magenta;
+  border-right: 50px solid yellow;
+}
 .box {
   background-color: yellow;
   height: 400px;
@@ -25,11 +32,4 @@ p strong {
 }
 h1.box2{
   height 100%
-}
-.box2 {
-  background-color: indigo;
-  height: 200px;
-  width: 200px;
-  border-left:50px solid magenta;
-  border-right: 50px solid yellow;
 }
