@@ -1,5 +1,5 @@
 body {
-  background-color: #00FFFF !important;
+  background-color: turquoise !important;
   font-size: 16pt;
   color: black
 }
@@ -9,9 +9,10 @@ h1,p{
   background-color:white;
 }
 .box{
-  background-color: #f3f315;
+  background-color: aqua;
   font-size: 14pt;
   height: 400px;
   width: 400px;
   margin-left: auto;
-  margin-right: auto;}
+  margin-right: auto;
+}
