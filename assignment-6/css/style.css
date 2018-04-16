@@ -17,7 +17,7 @@ h1, p {
   background-color: indigo;
   height: 200px;
   width: 200px;
-  border-left:66px solid pink;
+  border-left:66px solid magenta;
   border-right: 66px solid yellow;
 }
 }
