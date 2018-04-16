@@ -13,6 +13,10 @@ h1, p {
   background-color: white;
   display: flex;
 }
+.love{
+border-top: 10px solid magenta;
+border-bottom: 10px solid indigo;
+}
 .box {
   background-color: indigo;
   height: 200px;
