@@ -1,6 +1,8 @@
 body {
   background-color: turquoise;
   font-size: 16pt;
+  height: 800px;
+  width: 800px;
 }
 h1,p {
   font-family: Verdana;
