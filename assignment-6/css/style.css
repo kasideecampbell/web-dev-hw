@@ -12,7 +12,7 @@ h1,p {
   background-color: indigo;
   height: 200px;
   width: 200px;
-  border-left:50px solid magenta;
+  border-left:50px solid pink;
   border-right: 50px solid yellow;
 }
 .box {
