@@ -25,8 +25,9 @@ p strong {
 }
 .box2 {
   background-color: indigo;
-  border-left:50px solid pink;
-  border-right: 50px solid yellow;
   height: 200px;
   width: 200px;
+  border-left:50px solid pink;
+  border-right: 50px solid yellow;
+
 }
