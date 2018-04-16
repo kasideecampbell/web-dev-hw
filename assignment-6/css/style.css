@@ -25,24 +25,8 @@ p strong {
 }
 .box2 {
   background-color: indigo;
-  height: 800px;
-  width: 800px;
-}
-.line1{
-  height: 100%;
-  width: 6px;
-  background-color: pink;
-  position: absolute;
-  top: 0;
-  left: 30px; center: 30px; right: 30px;
-  z-index: -5;
-}
-.line2{
-  height: 100%;
-  width: 6px;
-  background-color: indigo;
-  position: absolute;
-  top:0;
-  left: 1000px; center:30px; right:30px;
-  z-index: -5;
+  border-left:50px solid pink;
+  border-right: 50px solid yellow;
+  height: 200px;
+  width: 200px;
 }
