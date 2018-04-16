@@ -43,6 +43,6 @@ p strong {
   background-color: indigo;
   position: absolute;
   top:0;
-  left: 200px; center:30px; right:30px;
+  left: 1000px; center:30px; right:30px;
   z-index: -5;
 }
