@@ -4,6 +4,7 @@ body {
   color: black
 }
 h1,p {
+  font-family: Verdana;
   font-size: 18pt;
   color: magenta;
   background-color:white;
@@ -17,8 +18,14 @@ h1,p {
   margin-right: auto;
 }
 p.box {
-  border: 2px solid black !important;
+  border: 4px solid black !important;
+  background-color: Indigo;
 }
 p strong {
   text-decoration: underline;
+}
+.box2 {
+  background-color: indigo;
+  height: 800px;
+  width: 800px;
 }
