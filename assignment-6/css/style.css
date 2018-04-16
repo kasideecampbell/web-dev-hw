@@ -5,12 +5,12 @@ body {
   width: 800px
 }
 /* This adjusts style for header 1's and paragraphs*/
-h1,p {
+h1, p {
+  width: 100%
   font-family: Verdana;
   font-size: 18pt;
   color: magenta;
   background-color:yellow;
-  width: 100%
 }
 .box {
   background-color: indigo;
