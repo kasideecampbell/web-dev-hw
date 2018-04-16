@@ -6,16 +6,16 @@ h1,p {
   font-family: Verdana;
   font-size: 18pt;
   color: magenta;
-  background-color:white;
+  background-color:yellow;
 }
-.box2 {
+.box {
   background-color: indigo;
   height: 200px;
   width: 200px;
   border-left:50px solid pink;
   border-right: 50px solid yellow;
 }
-.box {
+.box2 {
   background-color: yellow;
   height: 100%;
   width: 5px;
