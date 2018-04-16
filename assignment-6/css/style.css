@@ -10,7 +10,7 @@ h1, p {
   font-family: Verdana;
   font-size: 18pt;
   color: magenta;
-  background-color:yellow;
+  background-color:white;
   display: flex;
 }
 .box {
