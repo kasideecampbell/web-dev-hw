@@ -10,6 +10,8 @@ h1,p {
 }
 .box {
   background-color: yellow;
+  border-left: 5px solid magenta;
+  border-right: 5px solid indigo;
   font-size: 14pt;
   height: 400px;
   width: 400px;
@@ -23,11 +25,13 @@ p.box {
 p strong {
   text-decoration: underline;
 }
+p.box2{
+  height 100%
+}
 .box2 {
   background-color: indigo;
   height: 200px;
   width: 200px;
-  border-left:50px solid pink;
-  border-right: 50px solid yellow;
-
+  border-left:50px solid magenta;
+  border-right: 50px solid indigo;
 }
