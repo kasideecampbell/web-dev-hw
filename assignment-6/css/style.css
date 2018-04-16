@@ -1,9 +1,9 @@
 body {
-  background-color: magenta !important;
+  background-color: #00FFFF !important;
   font-size: 16pt;
   color: black
 }
-h1{
+h1,p{
   font-size: 18pt;
   color: magenta;
   background-color:white;
@@ -11,6 +11,7 @@ h1{
 .box{
   background-color: #f3f315;
   font-size: 14pt;
-
-
-}
+  height: 400px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;}
