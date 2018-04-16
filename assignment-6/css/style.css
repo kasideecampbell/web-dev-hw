@@ -1,0 +1,16 @@
+body {
+  background-color: magenta !important;
+  font-size: 16pt;
+  color: black
+}
+h1{
+  font-size: 18pt;
+  color: magenta;
+  background-color:white;
+}
+.box{
+  background-color: #f3f315;
+  font-size: 14pt;
+
+
+}
