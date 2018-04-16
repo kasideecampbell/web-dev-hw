@@ -19,6 +19,6 @@ h1,p{
 p.box{
   border: 2px solid black;
 }
-p em{
+p strong{
   text-decoration: underline;
 }
