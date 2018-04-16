@@ -11,6 +11,7 @@ h1, p {
   font-size: 18pt;
   color: magenta;
   background-color:yellow;
+  display: flex;
 }
 .box {
   background-color: indigo;
