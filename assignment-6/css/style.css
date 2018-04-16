@@ -6,7 +6,6 @@ body {
 }
 /* This adjusts style for header 1's and paragraphs*/
 h1, p {
-  border: 2px solid #73AD21;
   width: 100%
   font-family: Verdana;
   font-size: 18pt;
