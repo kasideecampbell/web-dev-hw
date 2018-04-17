@@ -13,6 +13,7 @@ color: magenta;
 background-color: turquoise;
 display: flex;
 border-style: solid;
+border-color: indigo;
 border-width: 5px;
 padding:10px;
 }
