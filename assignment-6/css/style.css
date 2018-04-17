@@ -17,7 +17,7 @@ border-style: dotted;
 border-width: 5px;
 padding:10px;
 }
-p{
+p.styled{
   background-color: indigo
   color:white
   font-size 14pt;
