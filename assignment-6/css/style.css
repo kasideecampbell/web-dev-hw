@@ -14,7 +14,7 @@ border-width: 5px;
 border-color: magenta magenta magenta magenta !important;
 font-size: 20pt;
 background-color: yellow;
-color: white
+color: black;
 
 
 }
@@ -28,8 +28,14 @@ h2{
 
 }
 p.styled{
+  text-align:center;
+  font-size: 16pt;
+  border-width: 5px;
+  border-style: dotted;
+  border-color: magenta yellow magenta yellow;
   background-color: indigo
   color:white
+
 }
 .content{
   background-color: indigo;
