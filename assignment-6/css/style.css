@@ -4,6 +4,10 @@ body {
   height: 800px
   width: 800px
 }
+*{
+border-color: magenta yellow indigo black;
+
+}
 /* This adjusts style for header 1's and paragraphs*/
 h1, p {
 width: 100%
@@ -12,8 +16,7 @@ font-size: 18pt;
 color: magenta;
 background-color: turquoise;
 display: flex;
-border-style: solid;
-border-color: indigo;
+border-style: dotted;
 border-width: 5px;
 padding:10px;
 }
