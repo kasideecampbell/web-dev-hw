@@ -9,4 +9,5 @@ My color palette included three or four colors which include:
 4. yellow
 
 I started by reading through the website and taking some notes. I knew putting css to the test would prove to be more challenging since its a new topic. I started by choosing my decade, color palette, looking at the example and started coding my index.html first. I then started my css and pushed it from github to make sure I could check and make sure my css adjustments were showing up. I did get frsutrated with positioning objects and it was taking forever to push my edits to my live website which made the assignment consume a lot of time.
-![Image of my workspace.](./images/screenshot.png)
+
+![Image of my workspace.](../images/screenshot.png)
