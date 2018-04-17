@@ -15,18 +15,10 @@ border-color: magenta magenta magenta magenta !important;
 font-size: 20pt;
 background-color: yellow;
 color: black;
-
-
-}
-h2{
-  font-size: 14pt;
-  border-style: dashed;
-  border-width: 5px;
-  background-color: magenta;
-  border-color: indigo indigo indigo indigo;
-  color: white
+padding-bottom: 20px;
 
 }
+
 p.styled{
   text-align:center;
   font-size: 16pt;
