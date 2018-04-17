@@ -1,6 +1,6 @@
 body {
   background-color: turquoise;
-  font-size: 16pt;
+  font-size: 12pt;
   height: 800px
   width: 800px
 }
@@ -11,7 +11,7 @@ font-family: Verdana;
 /* This adjusts style for header 1's and paragraphs*/
 h1, p {
 width: 100%
-font-size: 18pt;
+font-size: 14pt;
 fontcolor: magenta;
 background-color: turquoise;
 display: flex;
@@ -30,15 +30,16 @@ border-width: 5px;
 padding:10px;
 }
 .box {
-background-color: indigo;
-height: 200px;
-width: 200px;
-padding:10px;
-position: absolute;
-left: 0;
-bottom:0;
+background-color: indigo
+height: 250px;
 opacity: .5;
 }
+.box.inner{
+  background-color: magenta
+  width: 60%;
+  height: 300px;
+  top-margin: 10px;
+  left-margin: 50px;
 }
 .box2{
 background-color: yellow;
