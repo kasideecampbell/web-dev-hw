@@ -5,6 +5,7 @@ body {
 }
 *{
 font-family: Verdana;
+text-align: center;
 }
 /* This adjusts style for header 1's and paragraphs*/
 h1{
@@ -58,7 +59,7 @@ position: absolute;
 left: 3px;
 bottom:0px;
 right: 5px;
-top: 150px;
+top: 300px;
 opacity: .5;
 }
 
