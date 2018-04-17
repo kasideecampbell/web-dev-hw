@@ -70,6 +70,7 @@ height: 200px;
 width:200px;
 left: 70px;
 bottom: 0px;
+top:300px;
 }
 
 .box3{
@@ -79,6 +80,7 @@ height: 200px;
 width:200px;
 left: 140px;
 bottom: 0px;
+top: 300px;
 }
 
 .love{
@@ -89,4 +91,5 @@ bottom: 0px;
 right: 0px;
 padding-top: 300px;
 z-index: 1;
+
 }
