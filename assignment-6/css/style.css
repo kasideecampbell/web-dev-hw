@@ -55,8 +55,8 @@ background-color: indigo;
 height: 200px;
 width: 200px;
 position: absolute;
-left: 6px;
-bottom:5px;
+left: 0px;
+bottom:0px;
 opacity: .5;
 }
 
@@ -67,9 +67,8 @@ height: 200px;
 width:200px;
 left: 70px;
 bottom: 0px;
-padding-top: 300px;
-z-index: 1;
 }
+
 .box3{
 background-color: yellow;
 position:absolute;
@@ -77,8 +76,6 @@ height: 200px;
 width:200px;
 left: 140px;
 bottom: 0px;
-padding-top: 300px;
-z-index: 1;
 }
 
 .love{
