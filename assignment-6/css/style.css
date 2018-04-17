@@ -9,26 +9,27 @@ font-family: Verdana;
 /* This adjusts style for header 1's and paragraphs*/
 h1{
 text-align: center;
+border-style: dotted;
+border-width: 5px;
 border-color: magenta magenta magenta magenta !important;
 font-size: 20pt;
 background-color: yellow;
 color: white
-border-style: dotted;
-border-width: 5px;
+
 
 }
 h2{
   font-size: 14pt;
   background-color: magenta;
-  color: white
-  border-color: indigo indigo indigo indigo;
   border-style: dashed;
   border-width: 5px;
+  border-color: indigo indigo indigo indigo;
+  color: white
+
 }
 p.styled{
   background-color: indigo
   color:white
-  font-size 14pt;
 }
 .content{
   background-color: indigo;
