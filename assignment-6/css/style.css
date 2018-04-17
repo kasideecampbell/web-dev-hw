@@ -40,9 +40,12 @@ p.styled{
 .content{
   background-color: indigo;
   display: flex;
+  text-align: center;
+
 }
 img{
   display: inline-flex;
+  align-items: center;
 }
 .box {
 background-color: indigo;
