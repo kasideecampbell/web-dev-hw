@@ -13,7 +13,7 @@ h1, p {
 width: 100%
 font-family: Verdana;
 font-size: 18pt;
-color: magenta;
+fontcolor: magenta;
 background-color: turquoise;
 display: flex;
 border-style: dotted;
