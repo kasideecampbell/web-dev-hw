@@ -1,6 +1,5 @@
 body {
   background-color: turquoise;
-  font-size: 16pt;
   height: 800px
   width: 800px
 }
@@ -9,15 +8,19 @@ border-color: magenta yellow indigo yellow;
 font-family: Verdana;
 }
 /* This adjusts style for header 1's and paragraphs*/
-h1, p {
+h1{
 width: 100%
-font-size: 18pt;
+font-size: 14pt;
 fontcolor: magenta;
-background-color: turquoise;
-display: flex;
+background-color: yellow;
 border-style: dotted;
 border-width: 5px;
 padding:10px;
+}
+p{
+  background-color: indigo
+  color:white
+  font-size 14pt;
 }
 .content{
   background-color: indigo;
