@@ -43,8 +43,11 @@ p strong {
   background-color:yellow;
   width: 300px;
   height: 300px;
-  position:static;
+  position: fixed;
+  bottom: 5;
+  right: 0;
+  width: 300px;
+  border: 3px solid;
   margin-right: auto;
-  top: 620px;
   margin-left: 150px;
 }
