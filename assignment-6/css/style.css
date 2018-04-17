@@ -6,12 +6,11 @@ body {
 }
 *{
 border-color: magenta yellow indigo yellow;
-
+font-family: Verdana;
 }
 /* This adjusts style for header 1's and paragraphs*/
 h1, p {
 width: 100%
-font-family: Verdana;
 font-size: 18pt;
 fontcolor: magenta;
 background-color: turquoise;
