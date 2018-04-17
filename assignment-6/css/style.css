@@ -49,13 +49,13 @@ width: auto;
 left: 20px;
 bottom: 0px;
 }
-.box3{
-background-color: magenta
-position:absolute;
-height: 100px;
-width: auto;
-left: 40px;
-bottom: 0;
+img {
+  200px;
+  position: absolute;
+  bottom: 25px;
+  right: 15px;
+  z-index: 1;
 }
+
 p strong {
   text-decoration: underline;
