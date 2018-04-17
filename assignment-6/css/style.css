@@ -42,7 +42,7 @@ height: 200px;
 width: 200px;
 padding:10px;
 position: absolute;
-left: 0;
+right 40px;
 bottom:0;
 opacity: .5;
 }
@@ -52,7 +52,7 @@ background-color: magenta;
 position: absolute;
 height: 150px;
 width:150px;
-right: 4px;
+right: 50px;
 bottom: 0px;
 }
 
