@@ -20,7 +20,9 @@ h1, p {
 }
 .love{
 border-top: 10px solid magenta;
-
+border-style: solid yellow;
+border-width: 5px;
+padding:10px;
 }
 .box {
   background-color: indigo;
