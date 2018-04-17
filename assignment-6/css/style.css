@@ -54,7 +54,7 @@ height: 200px;
 width: 200px;
 padding:10px;
 position: absolute;
-left: 3px;
+left: 6px;
 bottom:0;
 top: 3px;
 opacity: .5;
@@ -67,7 +67,7 @@ height: 200px;
 width:200px;
 left: 70px;
 bottom: 0px;
-top: 6px;
+top: 9px;
 }
 .box3{
 background-color: yellow;
@@ -76,7 +76,7 @@ height: 200px;
 width:200px;
 left: 140px;
 bottom: 0px;
-top:9px;
+top: 12px;
 }
 h2 strong {
   text-decoration: underline;
