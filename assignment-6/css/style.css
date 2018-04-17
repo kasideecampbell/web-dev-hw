@@ -6,29 +6,30 @@ body {
 }
 /* This adjusts style for header 1's and paragraphs*/
 h1, p {
-  width: 100%
-  font-family: Verdana;
-  font-size: 18pt;
-  color: magenta;
-  background-color: turquoise;
-  display: flex;
-  border-style: solid yellow;
-  border-width: 5px;
-  padding:10px;
+width: 100%
+font-family: Verdana;
+font-size: 18pt;
+color: magenta;
+background-color: turquoise;
+display: flex;
+border-style: solid;
+border-width: 5px;
+border-color: indigo
+padding:10px;
 }
 
 .love{
-  border-top: 10px solid magenta;
-  border-style: solid yellow;
-  border-width: 5px;
-  padding:10px;
+border-top: 10px solid magenta;
+border-style: solid yellow;
+border-width: 5px;
+padding:10px;
 }
 .box {
-  background-color: indigo;
-  height: 200px;
-  width: 200px;
-  border-left:66px solid magenta;
-  border-right: 66px solid yellow;
+background-color: indigo;
+height: 200px;
+width: 200px;
+border-left:66px solid magenta;
+border-right: 66px solid yellow;
 }
 }
 p strong {
@@ -45,5 +46,5 @@ p strong {
   position: absolute;
   margin-right: auto;
   top: 620px;
-  margin-left: 100px;
+  margin-left: 150px;
 }
