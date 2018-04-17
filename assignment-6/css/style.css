@@ -4,18 +4,26 @@ body {
   width: 800px
 }
 *{
-border-color: magenta yellow indigo yellow;
 font-family: Verdana;
 }
 /* This adjusts style for header 1's and paragraphs*/
 h1{
-width: 100%
+border-color: magenta magenta magenta magenta;
 font-size: 14pt;
-fontcolor: magenta;
+color: white
 background-color: yellow;
 border-style: dotted;
 border-width: 5px;
 padding:10px;
+}
+h2{
+  font-size: 14pt;
+  color: white
+  background-color: magenta;
+  border-color: indigo indigo indigo indigo;
+  border-style: dashed;
+  border-width: 5px;
+  padding: 10px;
 }
 p.styled{
   background-color: indigo
@@ -24,6 +32,7 @@ p.styled{
 }
 .content{
   background-color: indigo;
+  display: flex;
 }
 
 .box {
