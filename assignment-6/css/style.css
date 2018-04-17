@@ -42,7 +42,7 @@ height: 150px;
 width: 150px;
 padding:10px;
 position: absolute;
-right: 30px;
+right: 5px;
 bottom:0;
 opacity: .5;
 }
@@ -52,10 +52,17 @@ background-color: magenta;
 position: absolute;
 height: 150px;
 width:150px;
-right: 40px;
+right: 15px;
 bottom: 0px;
 }
-
+.box3{
+background-color: yellow
+position:absolute;
+height: 150px;
+width:150px;
+right: 22px;
+bottom: 0px;
+}
 h2 strong {
   text-decoration: underline;
 }
