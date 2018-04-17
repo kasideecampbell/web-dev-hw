@@ -5,7 +5,7 @@ body {
   width: 800px
 }
 *{
-border-color: magenta yellow indigo black;
+border-color: magenta yellow indigo yellow;
 
 }
 /* This adjusts style for header 1's and paragraphs*/
@@ -31,26 +31,23 @@ padding:10px;
 background-color: indigo;
 height: 200px;
 width: 200px;
-border-left:66px solid magenta;
-border-right: 66px solid yellow;
+border-style: solid;
+border-width: 5px;
+padding:10px;
+}
+}
+.box2{
+border-style: solid;
+border-width: 5px;
+opacity: .5;
+padding: 10px;
+background-color:yellow;
+width: 300px;
+height: 300px;
+position: fixed;
+margin-right: auto;
+margin-left: 150px;
 }
 }
 p strong {
   text-decoration: underline;
-}
-.box2{
-  border-style: solid;
-  border-width: 5px;
-  opacity: .5;
-  padding: 10px;
-  background-color:yellow;
-  width: 300px;
-  height: 300px;
-  position: fixed;
-  bottom: 5;
-  right: 0;
-  width: 300px;
-  border: 3px solid;
-  margin-right: auto;
-  margin-left: 150px;
-}
