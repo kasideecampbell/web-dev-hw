@@ -42,7 +42,7 @@ p strong {
   background-color:yellow;
   width: 300px;
   height: 300px;
-  position: absolute;
+  position:static;
   margin-right: auto;
   top: 620px;
   margin-left: 150px;
