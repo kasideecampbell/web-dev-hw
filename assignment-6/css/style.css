@@ -1,6 +1,6 @@
 body {
   background-color: turquoise;
-  font-size: 12pt;
+  font-size: 16pt;
   height: 800px
   width: 800px
 }
@@ -11,7 +11,7 @@ font-family: Verdana;
 /* This adjusts style for header 1's and paragraphs*/
 h1, p {
 width: 100%
-font-size: 14pt;
+font-size: 18pt;
 fontcolor: magenta;
 background-color: turquoise;
 display: flex;
@@ -22,25 +22,18 @@ padding:10px;
 .content{
   background-color: indigo;
 }
-.love{
-background-color: yellow;
-border-top: 10px solid magenta;
-border-style: solid;
-border-width: 5px;
-padding:10px;
-}
+
 .box {
-background-color: indigo
-height: 250px;
+background-color: indigo;
+height: 200px;
+width: 200px;
+padding:10px;
+position: absolute;
+left: 0;
+bottom:0;
 opacity: .5;
 }
-.box.inner{
-  background-color: magenta
-  width: 60%;
-  height: 300px;
-  top-margin: 10px;
-  left-margin: 50px;
-}
+
 .box2{
 background-color: yellow;
 position: absolute;
@@ -49,13 +42,14 @@ width: auto;
 left: 20px;
 bottom: 0px;
 }
-img {
-  200px;
-  position: absolute;
-  bottom: 25px;
-  right: 15px;
-  z-index: 1;
-}
 
 p strong {
   text-decoration: underline;
+}
+.love{
+background-color: yellow;
+border-top: 10px solid magenta;
+border-style: solid;
+border-width: 5px;
+padding:10px;
+}
