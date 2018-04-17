@@ -20,9 +20,9 @@ color: black;
 }
 h2{
   font-size: 14pt;
-  background-color: magenta;
   border-style: dashed;
   border-width: 5px;
+  background-color: magenta;
   border-color: indigo indigo indigo indigo;
   color: white
 
