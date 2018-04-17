@@ -14,13 +14,13 @@ background-color: turquoise;
 display: flex;
 border-style: solid;
 border-width: 5px;
-border-color: indigo
+border-color: indigo;
 padding:10px;
 }
 
 .love{
 border-top: 10px solid magenta;
-border-style: solid yellow;
+border-style: solid;
 border-width: 5px;
 padding:10px;
 }
