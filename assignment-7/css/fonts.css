@@ -1,0 +1,12 @@
+@font-face {
+   font-family: 'Old-English';
+   src: url('../fonts/Olde-English-Regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+ }
+ @font-face {
+   font-family: 'Typewriter';
+   src: url('../fonts/atwriter.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+ }

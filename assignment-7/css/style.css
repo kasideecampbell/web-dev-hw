@@ -1,0 +1,60 @@
+body {
+    background-color: #D2B48C;
+  }
+
+h1 {
+  text-align: center;
+  color: black;
+  font-family: Old-English;
+  text-transform: uppercase;
+  font-size: 260%;
+  font-style: bold;
+  font-weight:500;
+  padding-top: 30px;
+  letter-spacing: 2;}
+
+
+  body {
+      text-align: center;
+      }
+
+  .container {
+    width: 900px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+  }
+  .date {
+    font-family: atwriter;
+    font-style: italic;
+  }
+
+  p {
+  font-family: atwriter;
+  letter-spacing: 1;
+  }
+  .body{
+    border-style: solid;
+    border-color: brown;
+  }
+
+  .link {
+  color: brown;
+  font-weight: 300;
+  text-align: center;
+  font-size: 110%;
+}
+
+.link:hover {
+  color: gray;
+
+}
+
+.link:active {
+  color: white;
+  background-color: white;
+}
+
+.link:visited {
+  color: gold;
+}
