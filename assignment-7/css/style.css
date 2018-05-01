@@ -32,12 +32,13 @@ h2{
   }
 
   p {
-  font-family: atwriter;
+  font-family: Lucida-Sans-Typewriter;
   letter-spacing: 1;
   }
   .body{
     border-style: solid;
-    border-color: saddlebrown;
+    border-color:#1a0d00;
+
   }
 
   .link {
@@ -58,5 +59,5 @@ h2{
 }
 
 .link:visited {
-  color: gold;
+  color: #1a0d00;
 }
