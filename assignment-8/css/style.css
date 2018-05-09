@@ -20,6 +20,17 @@
 	top: 35px;
   rotation: 10;
 }
+.header1.1 {
+  font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-size: 32px;
+	font-style:
+	color: #303F44;
+	position: absolute;
+	width: 250px;
+	left: 415px;
+	top: 40px;
+  rotation: 10;
+}
 .header2 {
   font-family: "Hoefler Text", Times, "Times New Roman", serif;
 	font-size: 32px;
@@ -41,3 +52,42 @@
  	top: 30px;
    rotation: 10;
  }
+ .header3 {
+   font-family: "Hoefler Text", Times, "Times New Roman", serif;
+ 	font-size: 32px;
+ 	font-style:
+ 	color: #303F44;
+ 	position: absolute;
+ 	width: 250px;
+ 	left: 406px;
+ 	top: 20px;
+   rotation: 10;
+ }
+ .filterqueen-padd{
+  font-family: "Hoefler Text", Times, "Times New Roman", serif;
+  background-color: #303F44;
+  font-size: 28px;
+  color: #FFFFFF;
+	height: 100px;
+	width: 360px;
+	position: absolute;
+	left: 460px;
+	top: 210px;
+ }
+ .Bagless{
+  font-family: "Hoefler Text", Times, "Times New Roman", serif;
+  color: #303F44;
+  font-size: 14px;
+ 	width: 315px;
+ 	position: absolute;
+ 	left: 460px;
+ 	top: 310px;
+}
+h1.sidebar{
+  color: red;
+  position: absolute;
+  left: 500px;
+  top: 400px;
+  width: 150px;
+  
+}
