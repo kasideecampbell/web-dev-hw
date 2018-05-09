@@ -16,7 +16,7 @@
 	color: #303F44;
 	position: absolute;
 	width: 250px;
-	left: 406px;
+	left: 420px;
 	top: 35px;
   rotation: 10;
 }
@@ -67,12 +67,13 @@
   font-family: "Hoefler Text", Times, "Times New Roman", serif;
   background-color: #303F44;
   font-size: 28px;
-  color: #FFFFFF;
+  color: white;
 	height: 100px;
 	width: 360px;
 	position: absolute;
 	left: 460px;
 	top: 210px;
+  padding: 2em
  }
  .Bagless{
   font-family: "Hoefler Text", Times, "Times New Roman", serif;
@@ -89,5 +90,5 @@ h1.sidebar{
   left: 500px;
   top: 400px;
   width: 150px;
-  
+
 }
