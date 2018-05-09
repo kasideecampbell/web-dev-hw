@@ -1,5 +1,5 @@
-.content{
-font-family: "Hoefler Text", Times, "Times New Roman", serif;
+.header {
+  font-family: "Hoefler Text", Times, "Times New Roman", serif;
 	font-size: 32px;
 	font-style: italic;
 	color: #303F44;
