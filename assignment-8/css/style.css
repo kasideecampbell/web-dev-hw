@@ -12,11 +12,21 @@
 .header2 {
   font-family: "Hoefler Text", Times, "Times New Roman", serif;
 	font-size: 32px;
-	font-style:
+  text-decoration: underline;
 	color: #303F44;
 	position: absolute;
 	width: 250px;
-	left: px;450
+	left: 450 px;
 	top: 30px;
   rotation: 10;
 }
+ .headera{
+   font-family: "Hoefler Text", Times, "Times New Roman", serif;
+ 	font-size: 32px;
+ 	color: #303F44;
+ 	position: absolute;
+ 	width: 250px;
+ 	left:453 px;
+ 	top: 30px;
+   rotation: 10;
+ }
