@@ -1,0 +1,11 @@
+.content{
+font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-size: 32px;
+	font-style: italic;
+	color: #303F44;
+	position: absolute;
+	width: 250px;
+	left: 400px;
+	top: 30px;
+  rotation: 10;
+}
