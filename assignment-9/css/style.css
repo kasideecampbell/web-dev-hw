@@ -45,14 +45,14 @@
   font-size: 32px;
   position: absolute;
   left:530px;
-  top: 300px;
+  top: 350px;
 
 }
 .inside{
 
   position: absolute;
   left: 530px;
-  top:500px;
+  top:450px;
 }
 h2{
   font-size: 28px;
@@ -60,8 +60,8 @@ h2{
 }
 .sidebar{
   position: absolute;
-  left:730px;
-  top:500px;
+  left:620px;
+  top:450px;
 }
 .sidebar p{
   font-size: 14px;
@@ -69,11 +69,11 @@ h2{
 }
 .icon-outside{
   position: absolute;
-  left:530px;
-  top:850px;
+  left:620px;
+  top:600px;
 }
 .sidebar2{
   position: absolute;
-  left:530px;
-  top:990px;
+  left:620px;
+  top:800px;
 }
