@@ -15,8 +15,15 @@
 .header2 {
   position: absolute;
   font-size: 45px;
-  left: 650px;
+  left: 750px;
   top: 35px;
   transform: rotate(12deg);
+  color: #303F44;
+}
+.header3 {
+  position: absolute;
+  font-size: 45px;
+  left: 550px;
+  top: 50px;
   color: #303F44;
 }
