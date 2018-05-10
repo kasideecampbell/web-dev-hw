@@ -2,6 +2,7 @@
   position: absolute;
   left: 70px;
   top: 15px;
+  z-index: 2;
 }
 .header {
   font-family: "Hoefler Text", Times, "Times New Roman", serif;
@@ -31,10 +32,20 @@
 }
 .filterqueen-padd{
   background-color: #303F44;
-  font-size: 245px;
+  font-weight: bold;
+  font-size: 45px;
   color: white;
 	position: absolute;
+  width:
 	left:530px;
 	top: 150px;
   padding: 1em,
+}
+.Bagless{
+  color: #303F44;
+  font-size: 32px;
+  position: absolute;
+  left:530px;
+  top: 220px;
+
 }
