@@ -13,20 +13,10 @@
   transform: rotate(-12deg);
 }
 .header2 {
-
   position: absolute;
   font-size: 45px;
-  text-decoration: underline;
   left: 650px;
   top: 35px;
   transform: rotate(12deg);
   color: #303F44;
-}
-.headera{
- font-size: 45px;
- color: #303F44;
- position: absolute;
- left:750px;
- top: 35px;
- transform:rotate(12deg);
 }
