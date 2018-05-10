@@ -29,3 +29,12 @@
   top: 100px;
   color: #303F44;
 }
+.filterqueen-padd{
+  background-color: #303F44;
+  font-size: 245px;
+  color: white;
+	position: absolute;
+	left:530px;
+	top: 150px;
+  padding: 1em,
+}
