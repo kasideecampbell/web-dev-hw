@@ -1,10 +1,9 @@
 .woman{
- z-index:2;
- position: absolute;
- left: 70px;
- top: 15px;
+  position: absolute;
+  left: 70px;
+  top: 15px;
+  z-index: 2;
 }
-
 .header {
   font-family: "Hoefler Text", Times, "Times New Roman", serif;
 	font-size: 32px;
@@ -37,79 +36,116 @@
   font-size: 45px;
   color: white;
 	position: absolute;
-	left:530px;
-	top: 150px;
+	left:600px;
+	top: 200px;
   padding: 1em,
 }
- .Bagless{
-  font-family: "Hoefler Text", Times, "Times New Roman", serif;
+.Bagless{
   color: #303F44;
-  font-size: 14px;
- 	width: 315px;
- 	position: absolute;
- 	left: 460px;
- 	top: 310px;
-}
-h2 {
-  color: red;
-
-}
-
-.inside{
+  font-size: 32px;
   position: absolute;
-	left: 400px;
-	top: 500px;
+  left:530px;
+  top: 350px;
+
+}
+.inside{
+
+  position: absolute;
+  left: 530px;
+  top:450px;
+}
+h2{
+  font-size: 28px;
+  color:#ED1701;
 }
 .sidebar{
   position: absolute;
-  left: 500px;
-  top: 560px;
+  left:700px;
+  top:450px;
 }
-.filterqueen{
-  position: absolute;
-  left:70px;
-  top:1000px;
+.sidebar p{
+  font-size: 14px;
 
 }
-.entry{
+.icon-outside{
   position: absolute;
-  left: 600px;
-  bottom: 10px;
-  width: 300px;
-  height: 300px;
-  border-style: dashed;
-  border-width: 3px;
-  color: black;
+  left:530px;
+  top:550px;
+}
+.sidebar2{
+  position: absolute;
+  left:700px;
+  top:550px;
+}
+.sidebar3{
+  position: absolute;
+  left: 530px;
+  top: 700px;
+}
+.ssidebar3 p {
+  font-size: 14px;
+}
+.ssidebar3 {
+position:absolute;
+left: 700px;
+top:700px;
 }
 .sidepara{
   position: absolute;
-  left: 400px;
-  top:900px;
-  font-size: 14px;
+  left: 600px;
+  top:950px;
 }
 .scene{
-  z-index:2;
   position: absolute;
   left: 70px;
-  top: 910px;
-
-}
-.logo {
-  position: absolute;
-  left: 400px;
-  top:1000px;
-}
-.guarantee{
-  position: absolute;
-  left: 500px;
-  top:1000px;
+  top: 950px;
 }
 .leftpara{
   position: absolute;
   left: 70px;
-  top: 1100px;
-  font-size: 28px;
+  top: 1200px;
 }
-.leftpara p{
+.leftpara p {
   font-size: 14px;
+}
+.filterqueen{
+  position: absolute;
+  left: 70px;
+  top: 1400px;
+}
+.bottompara{
+  position:absolute;
+  left: 70px;
+  top: 1700px;
+}
+.bottompara p {
+  font-size: 14px;
+}
+.sidepara{
+  position: absolute;
+  left: 530px;
+  top: 900px;
+}
+.logo{
+  position: absolute;
+  left: 500px;
+  top: 1300px;
+  z-index: 2;
+}
+
+.guarantee{
+  position: absolute;
+  left: 450px;
+  top: 1400px;
+  z-index: 1;
+}
+.entry {
+  position: absolute;
+  left: 400px;
+  top:1600px;
+  width: 450px;
+  height: 250px;
+  border-style: dashed;
+  border-width: 3px;
+  color: black;
 }
