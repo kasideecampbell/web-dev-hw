@@ -142,7 +142,7 @@ top:700px;
 .entry {
   position: absolute;
   left: 400px;
-  bottom: 10px;
+  top:1600px;
   width: 450px;
   height: 250px;
   border-style: dashed;
