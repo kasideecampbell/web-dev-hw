@@ -90,3 +90,13 @@ position:absolute;
 left: 700px;
 top: 800px;
 }
+.sidepara{
+  position: absolute;
+  left: 600px;
+  top:950px;
+}
+.scene{
+  position: absolute;
+  left: 70px;
+  top: 950px;
+}
