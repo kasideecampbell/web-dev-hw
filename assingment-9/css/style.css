@@ -8,15 +8,17 @@
 	font-size: 32px;
   color: #303F44;
 	position: absolute;
-	left: 350px;
+	left: 400px;
 	top: 30px;
   rotation: 10;
 }
 .header2 {
   position: absolute;
-  font-size: 32px;
+  font-size: 45px;
   text-decoration: underline;
-  left: 450px;
-  top: 30px;
+  left: 500px;
+  top: 35px;
   transform: rotate(12deg);
+  color: #303F44;
+  rotation: -10;
 }
