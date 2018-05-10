@@ -8,7 +8,7 @@
 	font-size: 32px;
   color: #303F44;
 	position: absolute;
-	left: 400px;
+	left: 550px;
 	top: 30px;
   rotation: 10;
 }
@@ -17,7 +17,7 @@
   position: absolute;
   font-size: 45px;
   text-decoration: underline;
-  left: 600px;
+  left: 6px50;
   top: 35px;
   transform: rotate(12deg);
   color: #303F44;
@@ -27,7 +27,7 @@
  font-size: 45px;
  color: #303F44;
  position: absolute;
- left:570px;
+ left:750px;
  top: 35px;
  rotation: -10;
 }
