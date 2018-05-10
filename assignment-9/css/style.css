@@ -77,3 +77,11 @@ h2{
   left:620px;
   top:800px;
 }
+.sidebar3{
+  position: absolute;
+  left: 620px;
+  top: 800px;
+}
+.sidebar3 p {
+  font-size: 14px;
+}
