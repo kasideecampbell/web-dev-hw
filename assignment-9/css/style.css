@@ -100,3 +100,24 @@ top: 800px;
   left: 70px;
   top: 950px;
 }
+.leftpara{
+  position: absolute;
+  left: 70px;
+  top: 1200px;
+}
+.leftpara p {
+  font-size: 14px;
+}
+.filterqueen{
+  position: absolute;
+  left: 70px;
+  top: 1500px;
+}
+.bottompara{
+  position:absolute;
+  left: 70px;
+  top: 1800px;
+}
+.bottompara p {
+  font-size: 14px;
+}
