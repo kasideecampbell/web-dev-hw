@@ -50,9 +50,9 @@
 	height: 100px;
 	width: 360px;
 	position: absolute;
-	left:450;
+	left:4;
 	top: 210px;
-  padding: 2em
+  padding: 1em,
  }
  .Bagless{
   font-family: "Hoefler Text", Times, "Times New Roman", serif;
@@ -63,16 +63,18 @@
  	left: 460px;
  	top: 310px;
 }
-h1.sidebar{
+h2 {
   color: red;
-  position: absolute;
-  left: 500px;
-  top: 400px;
-  width: 150px;
 
 }
+
 .inside{
   position: absolute;
 	left: 400px;
 	top: 500px;
+}
+.sidebar{
+  position: absolute;
+  left: 500px;
+  top: 560px;
 }
