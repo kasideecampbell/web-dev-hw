@@ -135,14 +135,14 @@ top:700px;
 
 .guarantee{
   position: absolute;
-  left: 450px;
-  top: 1400px;
+  left: 650px;
+  top: 1500px;
   z-index: 1;
 }
 .entry {
   position: absolute;
   left: 650px;
-  top:1600px;
+  top:1650px;
   width: 450px;
   height: 250px;
   border-style: dashed;
