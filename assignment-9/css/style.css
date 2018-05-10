@@ -13,6 +13,7 @@
   transform: rotate(-12deg);
 }
 .header2 {
+  font-family: "Hoefler Text", Times, "Times New Roman", serif;
   position: absolute;
   font-size: 45px;
   left: 800px;
@@ -21,6 +22,7 @@
   color: #303F44;
 }
 .header3 {
+  font-family: "Hoefler Text", Times, "Times New Roman", serif;
   position: absolute;
   font-size: 45px;
   left: 550px;
