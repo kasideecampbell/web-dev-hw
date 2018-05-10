@@ -111,12 +111,12 @@ top:700px;
 .filterqueen{
   position: absolute;
   left: 70px;
-  top: 1500px;
+  top: 1400px;
 }
 .bottompara{
   position:absolute;
   left: 70px;
-  top: 1800px;
+  top: 1700px;
 }
 .bottompara p {
   font-size: 14px;
@@ -136,7 +136,7 @@ top:700px;
 .guarantee{
   position: absolute;
   left: 450px;
-  top: 1285px;
+  top: 1400px;
   z-index: 1;
 }
 .entry {
