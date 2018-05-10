@@ -101,3 +101,10 @@ h2 {
   top:900px;
   font-size: 14px;
 }
+.scene{
+  z-index:2;
+  position: absolute;
+  left: 70px;
+  top: 910px;
+
+}
