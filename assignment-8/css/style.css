@@ -41,6 +41,12 @@
  	top: 100px;
    rotation: 10;
  }
+ .woman{
+  z-index:2;
+	position: absolute;
+	left: 70px;
+	top: 10px;
+ }
  .filterqueen-padd{
   font-family: "Hoefler Text", Times, "Times New Roman", serif;
   background-color: #303F44;
@@ -77,8 +83,18 @@ h2 {
   left: 500px;
   top: 560px;
 }
+.filterqueen{
+  position: absolute;
+
+}
 .entry{
   border-style: dashed;
   border-width: 3px;
   color: black;
+}
+.sidepara{
+  position: absolute;
+  left: 400px;
+  top:900px;
+  font-size: 14px;
 }
