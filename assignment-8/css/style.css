@@ -88,6 +88,8 @@ h2 {
 }
 .filterqueen{
   position: absolute;
+  left:70px;
+  top:1000px;
 
 }
 .entry{
@@ -107,4 +109,14 @@ h2 {
   left: 70px;
   top: 910px;
 
+}
+.logo {
+  position: absolute;
+  left: 400px;
+  top:1000px;
+}
+.guarantee{
+  position: absolute;
+  left: 500px;
+  top:1000px;
 }
