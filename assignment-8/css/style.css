@@ -130,14 +130,14 @@ top:700px;
   position: absolute;
   left: 500px;
   top: 1300px;
-  z-index: 2;
+  z-index: 1;
 }
 
 .guarantee{
   position: absolute;
   left: 650px;
-  top: 1500px;
-  z-index: 1;
+  top: 1600px;
+  z-index: 2;
 }
 .entry {
   position: absolute;
