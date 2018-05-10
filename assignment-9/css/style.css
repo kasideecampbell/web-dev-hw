@@ -10,7 +10,7 @@
 	position: absolute;
 	left: 550px;
 	top: 30px;
-  rotation: 10;
+  transform: rotate(-12deg);
 }
 .header2 {
 
@@ -21,7 +21,6 @@
   top: 35px;
   transform: rotate(12deg);
   color: #303F44;
-  rotation: -10;
 }
 .headera{
  font-size: 45px;
@@ -29,5 +28,5 @@
  position: absolute;
  left:750px;
  top: 35px;
- rotation: -10;
+ transform:rotate(12deg);
 }
