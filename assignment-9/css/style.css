@@ -55,3 +55,15 @@
   left: 530px;
   top:500px;
 }
+h2{
+  font-size: 28px;
+  color:#ED1701;
+}
+.sidebar{
+  position: absolute;
+  left:630px;
+  top:500px;
+}
+.sidebar p{
+  font-size: 14px;
+}
