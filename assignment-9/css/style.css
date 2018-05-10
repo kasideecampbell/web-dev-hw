@@ -60,7 +60,7 @@ h2{
 }
 .sidebar{
   position: absolute;
-  left:620px;
+  left:700px;
   top:450px;
 }
 .sidebar p{
@@ -74,7 +74,7 @@ h2{
 }
 .sidebar2{
   position: absolute;
-  left:530px;
+  left:700px;
   top:600px;
 }
 .sidebar3{
@@ -87,6 +87,6 @@ h2{
 }
 .ssidebar3 {
 position:absolute;
-left: 530px;
+left: 700px;
 top: 800px;
 }
