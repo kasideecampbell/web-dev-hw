@@ -5,19 +5,19 @@
  top: 15px;
 }
 
-.header {
+.header1 {
   font-family: "Hoefler Text", Times, "Times New Roman", serif;
 	font-size: 32px;
   color: #303F44;
 	position: absolute;
-	left: 400px;
+	left: 500px;
 	top: 30px;
   transform: rotate(-12deg);
 }
 
 .header2 {
   position: absolute;
-  left: 500px;
+  left: 600px;
   top: 40px;
   transform: rotate(12deg);
 z-index: 2
