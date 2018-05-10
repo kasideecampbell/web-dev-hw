@@ -37,10 +37,11 @@
   text-decoration: underline;
 	color: #303F44;
 	position: absolute;
-	width: 250px;
-	left: 500px;
+  width: 250px;
+	left: 600px;
 	top: 30px;
-  rotation: 10;
+  rotation: -10;
+
 }
  .headera{
    font-family: "Hoefler Text", Times, "Times New Roman", serif;
@@ -48,9 +49,9 @@
  	color: #303F44;
  	position: absolute;
  	width: 250px;
- 	left:455px;
+ 	left:650px;
  	top: 30px;
-   rotation: 10;
+   rotation: -10;
  }
  .header3 {
    font-family: "Hoefler Text", Times, "Times New Roman", serif;
