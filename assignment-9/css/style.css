@@ -60,9 +60,20 @@ h2{
 }
 .sidebar{
   position: absolute;
-  left:630px;
+  left:730px;
   top:500px;
 }
 .sidebar p{
   font-size: 14px;
+
+}
+.icon-outside{
+  position: absolute;
+  left:530px;
+  top:850px;
+}
+.sidebar2{
+  position: absolute;
+  left:530px;
+  top:990px;
 }
