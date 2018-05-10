@@ -121,3 +121,21 @@ top:700px;
 .bottompara p {
   font-size: 14px;
 }
+.sidepara{
+  position: absolute;
+  left: 530px;
+  top: 900px;
+}
+.logo{
+  position: absolute;
+  left: 400px;
+  top: 1300px;
+  z-index: 2;
+}
+
+.guarantee{
+  position: absolute;
+  left: 450px;
+  top: 1285px;
+  z-index: 1;
+}
