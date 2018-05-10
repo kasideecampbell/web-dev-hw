@@ -139,3 +139,13 @@ top:700px;
   top: 1285px;
   z-index: 1;
 }
+.entry {
+  position: absolute;
+  left: 400px;
+  bottom: 10px;
+  width: 450px;
+  height: 250px;
+  border-style: dashed;
+  border-width: 3px;
+  color: black;
+}
