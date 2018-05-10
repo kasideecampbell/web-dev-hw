@@ -1,55 +1,33 @@
 .header {
   font-family: "Hoefler Text", Times, "Times New Roman", serif;
 	font-size: 32px;
-	font-style:
-	color: #303F44;
+  color: #303F44;
 	position: absolute;
 	width: 250px;
 	left: 400px;
 	top: 30px;
   rotation: 10;
 }
-.header1 {
-  font-family: "Hoefler Text", Times, "Times New Roman", serif;
-	font-size: 32px;
-	font-style:
-	color: #303F44;
-	position: absolute;
-	width: 250px;
-	left: 450px;
-	top: 35px;
-  rotation: 10;
-}
-.header1.1 {
-  font-family: "Hoefler Text", Times, "Times New Roman", serif;
-	font-size: 32px;
-	font-style:
-	color: #303F44;
-	position: absolute;
-	width: 250px;
-	left: 480px;
-	top: 40px;
-  rotation: 10;
 }
 .header2 {
   font-family: "Hoefler Text", Times, "Times New Roman", serif;
-	font-size: 32px;
+	font-size: 45px;
   text-decoration: underline;
 	color: #303F44;
 	position: absolute;
   width: 250px;
-	left: 600px;
+	left: 500px;
 	top: 30px;
   rotation: -10;
 
 }
  .headera{
    font-family: "Hoefler Text", Times, "Times New Roman", serif;
- 	font-size: 32px;
+ 	font-size: 45px;
  	color: #303F44;
  	position: absolute;
  	width: 250px;
- 	left:650px;
+ 	left:6px;
  	top: 30px;
    rotation: -10;
  }
@@ -60,8 +38,8 @@
  	color: #303F44;
  	position: absolute;
  	width: 250px;
- 	left: 406px;
- 	top: 20px;
+ 	left: 400px;
+ 	top: 100px;
    rotation: 10;
  }
  .filterqueen-padd{
@@ -72,7 +50,7 @@
 	height: 100px;
 	width: 360px;
 	position: absolute;
-	left: 460px;
+	left:450;
 	top: 210px;
   padding: 2em
  }
@@ -92,4 +70,9 @@ h1.sidebar{
   top: 400px;
   width: 150px;
 
+}
+.inside{
+  position: absolute;
+	left: 400px;
+	top: 500px;
 }
