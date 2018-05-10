@@ -1,0 +1,12 @@
+@font-face {
+   font-family: 'Old-English';
+   src: url('../fonts/flterqueen-mail-order.txt') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+ }
+ @font-face {
+   font-family: 'filtergqeen-ad-text';
+   src: url('../fonts/flterqueen-ad-text.txt') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+ }

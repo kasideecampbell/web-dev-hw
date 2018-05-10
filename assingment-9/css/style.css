@@ -1,0 +1,15 @@
+.woman{
+  position: absolute;
+  left: 70px;
+  top: 15px;
+}
+.header {
+  font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-size: 32px;
+  color: #303F44;
+	position: absolute;
+	width: 250px;
+	left: 100px;
+	top: 30px;
+  rotation: 10;
+}
