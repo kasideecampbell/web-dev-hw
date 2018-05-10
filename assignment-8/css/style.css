@@ -8,7 +8,7 @@
 	top: 30px;
   rotation: 10;
 }
-}
+
 .header2 {
   font-family: "Hoefler Text", Times, "Times New Roman", serif;
 	font-size: 50px;
@@ -19,7 +19,6 @@
 	left: 480px;
 	top: 30px;
   rotation: -10;
-
 }
  .headera{
    font-family: "Hoefler Text", Times, "Times New Roman", serif;
@@ -27,9 +26,9 @@
  	color: #303F44;
  	position: absolute;
  	width: 250px;
- 	left:499px;
+ 	left:500px;
  	top: 30px;
-   rotation: -10;
+  rotation: -10;
  }
  .header3 {
    font-family: "Hoefler Text", Times, "Times New Roman", serif;
@@ -77,4 +76,9 @@ h2 {
   position: absolute;
   left: 500px;
   top: 560px;
+}
+.entry{
+  border-style: dashed;
+  border-width: 3px;
+  color: black;
 }
