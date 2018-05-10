@@ -12,15 +12,14 @@
 	position: absolute;
 	left: 500px;
 	top: 30px;
-  transform: rotate(-12deg);
+
 }
 
 .header2 {
   position: absolute;
   left: 600px;
   top: 40px;
-  transform: rotate(12deg);
-z-index: 2
+  z-index: 2
 }
  .headera{
  	font-size: 45px;
@@ -28,7 +27,7 @@ z-index: 2
  	position: absolute;
  	left:570px;
  	top: 30px;
-  transform:rotate(12deg);
+
  }
  .header3 {
    font-family: "Hoefler Text", Times, "Times New Roman", serif;
@@ -39,7 +38,7 @@ z-index: 2
  	width: 250px;
  	left: 400px;
  	top: 100px;
-   rotation: 10;
+
  }
 
  .filterqueen-padd{
